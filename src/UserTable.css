@@ -1,0 +1,30 @@
+/* Table styles */
+.user-table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: black;
+    color: white;
+  }
+  
+  /* Table header styles */
+  .user-table th {
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  /* Table row styles */
+  .user-table td {
+    border: 1px solid white;
+    padding: 10px;
+  }
+  
+  /* Profile Pic styles */
+  .user-table img {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+  }
+  
